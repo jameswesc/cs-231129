@@ -13,19 +13,26 @@
 		"format": "prettier --write ."
 	},
 	"devDependencies": {
-		"@sveltejs/adapter-auto": "^2.0.0",
-		"@sveltejs/kit": "^1.27.4",
+		"@sveltejs/adapter-auto": "^2.1.1",
+		"@sveltejs/kit": "^1.27.6",
+		"@types/three": "^0.158.3",
 		"autoprefixer": "^10.4.16",
 		"postcss": "^8.4.31",
 		"prettier": "^3.0.0",
 		"prettier-plugin-svelte": "^3.0.0",
-		"svelte": "^5.0.0-next.1",
-		"svelte-check": "^3.6.0",
+		"svelte": "^4.2.7",
+		"svelte-check": "^3.6.2",
 		"tailwindcss": "^3.3.5",
 		"tslib": "^2.4.1",
 		"typescript": "^5.0.0",
 		"vite": "^4.4.2",
 		"vitest": "^0.34.0"
 	},
-	"type": "module"
+	"type": "module",
+	"dependencies": {
+		"@thi.ng/random": "^3.6.15",
+		"@threlte/core": "^7.0.1",
+		"@threlte/extras": "^7.5.2",
+		"three": "^0.158.0"
+	}
 }
