@@ -1383,6 +1383,11 @@ postcss@^8.4.23, postcss@^8.4.27, postcss@^8.4.31:
     picocolors "^1.0.0"
     source-map-js "^1.0.2"
 
+postprocessing@^6.33.3:
+  version "6.33.3"
+  resolved "https://registry.yarnpkg.com/postprocessing/-/postprocessing-6.33.3.tgz#d80103f6e68581263557aa2e5d9e26af3e0d7cfd"
+  integrity sha512-zQAVvcMf7bfeggQNQeVErD/UFd1XHBi2X6+yxwIv9PjhGCLAYKue3UuzVyu95O7ZUvkDwF0TyTzKdxoaVwYi7w==
+
 prettier-plugin-svelte@^3.0.0:
   version "3.1.2"
   resolved "https://registry.yarnpkg.com/prettier-plugin-svelte/-/prettier-plugin-svelte-3.1.2.tgz#2e050eb56dbb467a42c45ad6ce18bb277d28ffa0"
@@ -1516,6 +1521,11 @@ siginfo@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/siginfo/-/siginfo-2.0.0.tgz#32e76c70b79724e3bb567cb9d543eb858ccfaf30"
   integrity sha512-ybx0WO1/8bSBLEWXZvEd7gMW3Sn3JFlW3TvX1nREbDLRNQNaeNN8WK0meBwPdAaOI7TtRRRJn/Es1zhrrCHu7g==
+
+simplex-noise@^4.0.1:
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/simplex-noise/-/simplex-noise-4.0.1.tgz#1573a4eaa46ce488bdf5f1e7ab3a1f798126781f"
+  integrity sha512-zl/+bdSqW7HJOQ0oDbxrNYaF4F5ik0i7M6YOYmEoIJNtg16NpvWaTTM1Y7oV/7T0jFljawLgYPS81Uu2rsfo1A==
 
 sirv@^2.0.2:
   version "2.0.3"

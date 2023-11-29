@@ -33,6 +33,8 @@
 		"@thi.ng/random": "^3.6.15",
 		"@threlte/core": "^7.0.1",
 		"@threlte/extras": "^7.5.2",
+		"postprocessing": "^6.33.3",
+		"simplex-noise": "^4.0.1",
 		"three": "^0.158.0"
 	}
 }
