@@ -2,10 +2,10 @@
 
 Inspiration from a Rogue One UI - here.
 
-![UI Inspiration](./projectimage_19.jpg)
+![UI Inspiration](src/routes/projectimage_19.jpg)
 
 I'm going to try making this one in Threlte - a combination of Svelte and Three.js. Eventually it will allow me to add those glitchy screen effects that are in old UIs.
 
 ## Output
 
-![Output](./cs231129.jpg)
+![Output](src/routes/cs231129.png)
